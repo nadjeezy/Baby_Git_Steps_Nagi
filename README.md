@@ -48,3 +48,10 @@ Renommage du commit
 ```git
 git commit --amend -m "fix"
 ```
+----------------
+### poneys.txt
+Création du fichier poneys.txt
+Commit
+```git
+git commit -m "poneys.txt"
+```
