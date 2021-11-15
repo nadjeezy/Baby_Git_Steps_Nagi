@@ -69,3 +69,10 @@ Fusion de dev avec master
 ```git
 git merge dev
 ```
+
+---
+### maPremiereFusion
+Passage de la valeur à 1.
+```git
+git commit -m "maPremiereFusion"
+```
