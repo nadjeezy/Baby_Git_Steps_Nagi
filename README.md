@@ -4,8 +4,8 @@
 
 ### Ressources
 
-- [LIEN] https://learngitbranching.js.org/?locale=fr_FR
-- [LIEN] https://git-scm.com/
+- [Learngitbranching](https://learngitbranching.js.org/?locale=fr_FR)
+- [git-scm](https://git-scm.com/)
 
 ### Sous-titre : Objectif
 
@@ -25,6 +25,9 @@
 
 ### first commit
 Premier commit
+```git
+git commit -m "initial commit"
+```
 
 ---------------
 ###
