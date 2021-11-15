@@ -17,9 +17,10 @@
 ### Présentation
 
 - Bonjour, Je suis développeur !!
-  
-|entreprise|poste|annee|
-|acteam it|stage dev|2021|
+
+| Entreprise | poste | année |
+| :---------------: |:---------------:| :-----:|
+| Acteam-it  | Stage dev | 2021 |
 
 ## Changelog
 
@@ -32,8 +33,18 @@ git commit -m "initial commit"
 ---------------
 ### Code compteur d'action
 Changement du code de __script__.py
-
+Vérification des différences
 ```git
-git add *
+git diff __script__.py
+```
+Commit
+```git
 git commit -m "Code compteur d'action"
+```
+
+----------------
+### Fix
+Renommage du commit
+```git
+git commit --amend -m "fix"
 ```
