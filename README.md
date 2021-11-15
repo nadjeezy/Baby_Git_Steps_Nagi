@@ -48,10 +48,17 @@ Renommage du commit
 ```git
 git commit --amend -m "fix"
 ```
+
 ----------------
 ### poneys.txt
 Création du fichier poneys.txt
 Commit
 ```git
 git commit -m "poneys.txt"
+```
+----------------
+### unicornmode
+Ajout d'une ligne dans __script__.py
+```git
+git commit -m "unicornmode"
 ```
