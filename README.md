@@ -62,3 +62,10 @@ Ajout d'une ligne dans __script__.py
 ```git
 git commit -m "unicornmode"
 ```
+
+---
+### Merge
+Fusion de dev avec master
+```git
+git merge dev
+```
