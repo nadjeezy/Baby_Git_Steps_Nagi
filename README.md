@@ -76,3 +76,9 @@ Passage de la valeur à 1.
 ```git
 git commit -m "maPremiereFusion"
 ```
+
+### v1.0.0
+création d'un tag
+```git
+git tag v1.0.0
+```
