@@ -30,5 +30,10 @@ git commit -m "initial commit"
 ```
 
 ---------------
-###
-  
+### Code compteur d'action
+Changement du code de __script__.py
+
+```git
+git add *
+git commit -m "Code compteur d'action"
+```
