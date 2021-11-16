@@ -117,6 +117,16 @@ git pull origin master
 ```
 
 ---
+### fausse manip poneys.txt
+Modification du fichier poneys.txt = Fausse manipulation.
+```git
+git pull origin master
+git commit -am "fausse manip poneys.txt"
+git push origin devnagi 
+```
+puis pull request
+
+---
 ### revert fausse manip
 ```git
 git revert HEAD^  
