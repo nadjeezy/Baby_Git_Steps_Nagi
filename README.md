@@ -76,9 +76,16 @@ Passage de la valeur à 1.
 ```git
 git commit -m "maPremiereFusion"
 ```
-
+---
 ### v1.0.0
 création d'un tag
 ```git
 git tag v1.0.0
+```
+---
+### liaison github
+Liaison du dossier local au dossier git
+```git
+git remote add origin https://github.com/nadjeezy/Baby_Git_Steps_Nagi
+git push origin master 
 ```
