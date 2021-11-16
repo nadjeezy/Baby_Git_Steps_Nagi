@@ -93,3 +93,18 @@ Liaison du dossier local au dossier git
 git remote add origin https://github.com/nadjeezy/Baby_Git_Steps_Nagi
 git push origin master 
 ```
+---
+### clone repo autre
+```git
+git clone https://github.com/.../... 
+```
+
+### temoignage chez romy
+Creation d'une branche sur le repository de l'autre
+Push de ma branche vers origin
+```git
+git checkout -b devnagi
+git commit -am "..."
+git push origin devnagi 
+```
+Puis création d'une pull request
