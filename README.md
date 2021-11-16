@@ -24,7 +24,7 @@
 
 ##Témoignage
 
-Best DevOps I've ever seen ! I wish I be like they
+Best DevOps I've ever seen ! I wish I be like they.
 
 ## Changelog
 
