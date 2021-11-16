@@ -108,3 +108,10 @@ git commit -am "..."
 git push origin devnagi 
 ```
 Puis création d'une pull request
+
+---
+### capt3c
+Capture ecran importée
+```git
+git pull origin master  
+```
