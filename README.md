@@ -115,3 +115,9 @@ Capture ecran importée
 ```git
 git pull origin master  
 ```
+
+---
+### revert fausse manip
+```git
+git revert HEAD^  
+```
