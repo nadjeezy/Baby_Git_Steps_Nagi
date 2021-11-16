@@ -115,12 +115,3 @@ Capture ecran importée
 ```git
 git pull origin master  
 ```
-
----
-### fausse manip poneys.txt
-Effacement du contenu de poneys.txt .Fausse manip
-```git
-git pull origin master
-git commit -am "fausse manip poneys.txt"
-git push origin devnagi
-```
